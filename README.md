@@ -15,7 +15,7 @@ A principal idéia é criar aqui meu **segundo cérebro**, de forma que eu possa
 - **Ideias:** Para insights e pensamentos;
 - **Referências:** Para resumos de livros e artigos;
 - **Tags:** Para auxiliar na interconexão de ideias, utilizando um sistema de tags (temas chave);
-Experiências novas como assistir novos vídeos, ler novos l [[Segundo Cérebro]] [[Produtividivros e o próprio uso da ferramenta podem ajudar na melhor organização do meu segundo cérebro.
+Experiências novas como assistir novos vídeos, ler novos livros e o próprio uso da ferramenta podem ajudar na melhor organização do meu segundo cérebro.
 ### Rotina de uso
 ---
 Para que este sistema funcione, vou seguir a seguinte rotina de uso:
@@ -30,4 +30,4 @@ Vale a pena tentar outras rotinas também, para aprender novos métodos e criar 
 ### Referências
 ---
 -  O mínimo para não viver perdido na vida (https://www.youtube.com/watch?v=hyunklF0Xps)
-- Esse programa é tipo um SEGUNDO CÉREBRO (https://www.youtube.com/watch?v=Du13KuHhlHs)
+- Esse programa é tipo um SEGUNDO CÉREBRO (https://www.youtube.com/watch?v=Du13KuHhlHs )
