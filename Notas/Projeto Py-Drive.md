@@ -1,7 +1,6 @@
-# Acesso automatizado ao Google Drive com Python
+## Acesso automatizado ao Google Drive com Python
 
-Tags: [[Projetos]] [[Python]] [[Progamação]]
-
+Tags: [[Projetos]] [[Python]] [[Programação]]
 ### Descrição:
 ---
 O objetivo deste projeto é ser uma ferramenta CLI (comand line interface), uma aplicação de terminal que me permita gerenciar melhor minhas pastas armazenadas no google drive. A necessidade de criar este projeto veio do fato das minhas trocas de sistema operacional e também pelo motivo de ter um backup na nuvem dos meus arquivos para caso algo aconteça com minhas ferramentas locais. Portanto, com esta ferramenta pretendo poder fazer downloads e uploads dos meus arquivos para o drive e para meu computador local de forma automatizada, sem a nessecidade de abrir o navegador e puxar e soltar arquivos na página web, similar ao git.
@@ -21,3 +20,5 @@ Para melhor análise das etapas concluídas irei utilizar a ferramenta de canvas
 - Documentação Py-Doc da API do Google Drive: https://developers.google.com/resources/api-libraries/documentation/drive/v3/python/latest/drive_v3.files.html
 - Tutorial rápido de como usar a API do Google Drive: https://developers.google.com/workspace/drive/api/quickstart/python
 - Página principal da API do Google Drive: https://developers.google.com/workspace/drive/api/guides/about-sdk
+- Documentação da biblioteca Typer: https://typer.tiangolo.com/tutorial/commands/
+- Como criar um programa de lista de tarefas de linha de comando com Python: https://realpython.com/python-typer-cli/
