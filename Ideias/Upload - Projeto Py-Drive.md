@@ -1,7 +1,6 @@
 ## Sistema de upload de arquivos para o google drive com a API do Google Drive v3
 
 tags: [[Projeto Py-Drive]] [[Python]] [[Programação]]
-
 ### Descrição:
 ---
 A ideia aqui é implementar um sistema de upload simples e abranjente, de forma que eu possa utilizá-lo sem complicações no meu sistema e que ele me ajude e não cause dores de cabeça.
