@@ -45,4 +45,7 @@ Estes são os locais onde minha IC de aeropêndulo e estudo de baixo nível ter�
 - **ICMC - USP:** https://www.icmc.usp.br/;
 - **EESC - USP:** https://eesc.usp.br/;
 - **CRob - USP:** https://www.linkedin.com/company/crob-usp/posts/?feedView=all;
-- 
+- **FEEC - Unicamp:** https://www.fee.unicamp.br/;
+- **LCA - Unicamp:** https://www.fee.unicamp.br/?laboratorio=lca-laboratorio-do-departamento-de-engenharia-de-computacao-e-automacao;
+- **PPGEE - UFMG:** https://www.ppgee.ufmg.br/;
+- **CORA - UFMG:** http://cora.cpdee.ufmg.br/;
